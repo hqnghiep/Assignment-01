@@ -5,5 +5,5 @@
 >
 >Hướng: *Full Stack*
 >
->Email: *nghiephq18479@funix.edu.vn*
+>Email: *nghiephqfx18479@funix.edu.vn*
 
