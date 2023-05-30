@@ -45,6 +45,15 @@ body {
   align-items: flex-start;
 }
 
+.container-ttcn h1 {
+  margin-top: 0;
+}
+
+.container-ttcn img {
+  width: 113px;
+  height: 113px;
+}
+
 .layout-ttcn {
   display: flex;
   justify-content: flex-start;
