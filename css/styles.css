@@ -42,5 +42,20 @@ body {
 .container-ttcn {
   display: flex;
   justify-content: space-between;
+  align-items: flex-start;
+}
+
+.layout-ttcn {
+  display: flex;
+  justify-content: flex-start;
   align-items: center;
+  column-gap: 3em;
+}
+
+.indam {
+  font-weight: bold;
+}
+
+.innghieng {
+  font-style: italic;
 }
