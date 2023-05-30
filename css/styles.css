@@ -38,6 +38,7 @@ body {
   font-weight: 700;
   text-transform: uppercase;
   border-bottom: 2px solid #333;
+  padding-bottom: 5px;
 }
 .container-ttcn {
   display: flex;
@@ -67,4 +68,9 @@ body {
 
 .innghieng {
   font-style: italic;
+}
+
+.section-content {
+  color: rgb(3, 3, 47);
+  line-height: 1.5;
 }
