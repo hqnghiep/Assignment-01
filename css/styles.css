@@ -39,6 +39,7 @@ body {
   text-transform: uppercase;
   border-bottom: 2px solid #333;
   padding-bottom: 5px;
+  margin-bottom: 0;
 }
 .container-ttcn {
   display: flex;
@@ -70,7 +71,49 @@ body {
   font-style: italic;
 }
 
-.section-content {
-  color: rgb(3, 3, 47);
+.section-content p {
+  color: rgb(8, 8, 99);
   line-height: 1.5;
+}
+
+.mtnn p {
+  padding-bottom: 20px;
+}
+
+.layout-all {
+  display: grid;
+  grid-template-columns: 20% 80%;
+  align-items: flex-start;
+  border-bottom: 1px solid #b9b6b6;
+  margin-top: 1em;
+}
+.layout-all p {
+  margin: 0;
+}
+.layout-all h3 {
+  margin-top: 0;
+}
+#hv {
+  padding-bottom: 20px;
+}
+
+.st-ul {
+  color: rgb(8, 8, 99);
+  padding-left: 15px;
+  line-height: 1.5;
+}
+
+.duan-layout {
+  color: rgb(6, 6, 96);
+}
+.duan-layout h2 {
+  margin-bottom: 0;
+}
+.duan-layout p {
+  margin-top: 0;
+}
+
+.lh-ol li a {
+  text-decoration: none;
+  line-height: 1.7;
 }
