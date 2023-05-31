@@ -1,7 +1,5 @@
-#Hoàng Nghiệp
+#Hoàng Nghiệp  MSSV: *18479*
 >Đang học tại: **FUNIX**
->
->MSSV: *18479*
 >
 >Hướng: *Full Stack*
 >
