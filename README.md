@@ -5,8 +5,5 @@
 >
 >Nhánh: *Fullstack*
 >
->Sử dụng: **html/css**
-
->
 >Email: *nghiephqfx18479@funix.edu.vn*
 
