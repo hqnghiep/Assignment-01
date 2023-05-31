@@ -1,7 +1,12 @@
 #Hoàng Nghiệp  MSSV: *18479*
->Dự án: **Xây dựng trang CV cá nhân**
+>Học tại: **FUNIX**
+>
+>Khóa: *CCDN*
+>
+>Nhánh: *Fullstack*
 >
 >Sử dụng: **html/css**
+
 >
 >Email: *nghiephqfx18479@funix.edu.vn*
 
